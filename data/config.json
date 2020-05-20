@@ -1,0 +1,12 @@
+designConfig = 
+{
+    "businesses":[
+        {"name":"Company A", "baseCost": 15, "costIncreasePerLevel" : 0.2, "managerCost" : 100, "baseGeneration": 1, "generationIncreasePerLevel" : 0.3, "generationTime" : 3000},
+        {"name":"Company B", "baseCost": 30, "costIncreasePerLevel" : 0.22, "managerCost" : 460, "baseGeneration": 4, "generationIncreasePerLevel" : 0.35, "generationTime" : 7500  },
+        {"name":"Company C", "baseCost": 65, "costIncreasePerLevel" : 0.3, "managerCost" : 640, "baseGeneration": 6, "generationIncreasePerLevel" : 0.38, "generationTime" : 15000  },
+        {"name":"Company D", "baseCost": 125, "costIncreasePerLevel" : 0.4, "managerCost" : 5000, "baseGeneration": 11, "generationIncreasePerLevel" : 0.4, "generationTime" : 30000  },
+        {"name":"Company E", "baseCost": 500, "costIncreasePerLevel" : 0.5, "managerCost" : 10000, "baseGeneration": 16, "generationIncreasePerLevel" : 0.42, "generationTime" : 64000  },
+    ],
+    "initialCurrency" : 50,
+    "additivePrestigeEarningBonusPreReset" : 1
+}
